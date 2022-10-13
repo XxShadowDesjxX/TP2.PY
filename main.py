@@ -39,4 +39,3 @@ while start_jeu:
                 print("Merci et aurevoir")
                 boucle_jeu = False
                 start_jeu = False
-            
